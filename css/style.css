@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+header{
+    background-image: url(/images/angel-jimenez.jpg);
+    background-size: cover  ;
+    height: 1000px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header h1{
+    color: white;
+    text-align: center;
+    padding-top: 17%;
+    font-weight: bold;
+    font-size: 200px;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+section{
+    padding: 10%;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+button{
+    border-bottom: none;
+    border-style: none;
+    border-radius: 25px;
+    background-color: #FD4C5C;
+    cursor: pointer;
+    color: white;
+    width: 130px;
+    height: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+
+table{
+    
+    width: 70%;
+    border: none;
+    margin-left: 300px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  hr{
+      width: 68%;
+      margin-bottom: 30px;
+      margin-top: 30px;
+  }
+
+  footer{
+     background: -webkit-linear-gradient(to right, #FD4C5C, #FD2E5C);  
+    background: linear-gradient(to right, #FD4C5C, #FD2E5C); 
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 20px;
+  }
+
+.medio{
+    float: left;  
+    width: 50%;
+}
+
+
+
+.medio2{
+    float: right;
+    width: 50%;
+}
+
+.music{
+    font-size: 50px;
+    background: linear-gradient(to right,#FA4A54, #DA0170 20%);
+    -webkit-background-clip: text;
+    color: transparent;  
+    padding-top: 45px;
+}
+
+.img1{
+    height: 700px;
+    padding-bottom: 90px;
+}
+
+.louder{
+    font-size: 50px;
+    background: linear-gradient(to right,#FA4A54, #DA0170 20%);
+    -webkit-background-clip: text;
+    color: transparent;  
+    padding-top: 80px;
+}
+
+.img2{
+    height: 700px;
+}
+
+.guitar{
+    background-image: url(/images/john-raptis.png);
+    background-size: cover;
+    height: 20vw;
+}
+
+.texto{
+    float: right;
+}
+
+.txt{
+    color: white;
+}
+
+.parrafo{
+    color: white;
+}
+
+.ultimo{
+    padding: 0;
+}
+
+.esp{
+    height: 50px;
+}
+.esp1{
+    height: 8px;
+}
+
+.rep{
+    margin: 0;
+    color:  white;
+    float: left;
+    margin-right: 39%;
+    padding-left: 16%;
+
+}
+
+.rep1{
+    margin: 0;
+    color: white;
+}
+
+.clear{
+    clear: both;
+}
